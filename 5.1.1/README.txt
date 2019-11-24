@@ -1,0 +1,1 @@
+Jag har använt XAMPP som mail server
